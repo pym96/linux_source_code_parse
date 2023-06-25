@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/SCAN.dir/scan.cpp.o  -o bin/SCAN 

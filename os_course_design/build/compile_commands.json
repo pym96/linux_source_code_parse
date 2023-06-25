@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yiming/Learning/linux-master/linux-master/os_course_design/build",
+  "command": "/usr/bin/c++  -DPROJECT_DIR=\\\"/home/yiming/Learning/linux-master/linux-master/os_course_design\\\"    -Wall -Werror -std=gnu++17 -o CMakeFiles/SCAN.dir/scan.cpp.o -c /home/yiming/Learning/linux-master/linux-master/os_course_design/scan.cpp",
+  "file": "/home/yiming/Learning/linux-master/linux-master/os_course_design/scan.cpp"
+}
+]

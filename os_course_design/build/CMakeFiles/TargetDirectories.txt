@@ -1,0 +1,3 @@
+/home/yiming/Learning/linux-master/linux-master/os_course_design/build/CMakeFiles/rebuild_cache.dir
+/home/yiming/Learning/linux-master/linux-master/os_course_design/build/CMakeFiles/edit_cache.dir
+/home/yiming/Learning/linux-master/linux-master/os_course_design/build/CMakeFiles/SCAN.dir
